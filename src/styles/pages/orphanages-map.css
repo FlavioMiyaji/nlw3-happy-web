@@ -39,18 +39,16 @@
     font-weight: 800;
 }
 
-#page-orphanages-map .content-wrapper {
-    width: 100%;
-    max-width: 1100px;
-    
-    height: 100%;
-    max-height: 680px;
+#page-orphanages-map .leaflet-container {
+    z-index: 5;
 }
 
 #page-orphanages-map .create-orphanage {
     position: absolute;
     right: 40px;
     bottom: 40px;
+    
+    z-index: 10;
 
     width: 64px;
     height: 64px;
