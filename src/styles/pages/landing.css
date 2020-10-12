@@ -44,7 +44,7 @@
 .content-wrapper .location {
     position: absolute;
     right: 0;
-    top: 0;
+    top: 30px;
 
     font-size: 24px;
     line-height: 34px;
@@ -62,7 +62,7 @@
 .content-wrapper .enter-app {
     position: absolute;
     right: 0;
-    bottom: 0;
+    bottom: 30px;
 
     width: 80px;
     height: 80px;

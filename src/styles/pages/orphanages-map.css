@@ -1,0 +1,18 @@
+#page-orphanages-map {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(329.54deg, #29B6D1 0%, #00C7C7 100%);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#page-orphanages-map .content-wrapper {
+    position: relative;
+    width: 100%;
+    max-width: 1100px;
+    
+    height: 100%;
+    max-height: 680px;
+}
