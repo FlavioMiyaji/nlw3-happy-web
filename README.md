@@ -63,8 +63,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 * [x] Pagina com mapa
 ## 2º [Dia: Back-end com Node.js (Olhando as oportunidades)](https://github.com/FlavioMiyaji/nlw3-happy)
 ## 3º Dia: Finalizando front-end
-* [ ] Finalizando pagina de mapa
-* [ ] Copiando páginas faltantes
+* [x] Finalizando pagina de mapa
+* [x] Copiando páginas faltantes
 * [ ] Criando navegação entre telas
 * [ ] Abstraindo componentes
 * [ ] Conectando front-end com back-end
