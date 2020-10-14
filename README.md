@@ -48,3 +48,28 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 <img src="/src/assets/screenshots/Landing.png" width="500">
 
 <img src="/src/assets/screenshots/Map.png" width="500">
+
+# Trilha OmniStack
+## 1º Dia: Conceitos e estrutura web (Acelerando sua evolução)
+* [x] Apresentação do projeto
+* [x] Ambiente de desenvolvimento
+* [x] Conceitos de back-end, front-end e API
+* [x] O que é React e por que utilizar?
+* [x] Por que vamos usar TypeScript?
+* [x] Criando projeto com ReactJS
+* [x] Componentes, JSX e Propriedades
+* [x] Criando a landing page
+* [x] Trabalhando com rotas
+* [x] Pagina com mapa
+
+## 2º [Dia: Back-end com Node.js (Olhando as oportunidades)](https://github.com/FlavioMiyaji/nlw3-happy)
+
+## 3º Dia: Finalizando front-end
+* [ ] Finalizando pagina de mapa
+* [ ] Copiando páginas faltantes
+* [ ] Criando navegação entre telas
+* [ ] Abstraindo componentes
+* [ ] Conectando front-end com back-end
+* [ ] Listando orfanatos no map
+* [ ] Detalhe do orfanato
+* [ ] Criação de um orfanato
