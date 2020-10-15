@@ -66,7 +66,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 * [x] Finalizando pagina de mapa
 * [x] Copiando páginas faltantes
 * [x] Criando navegação entre telas
-* [ ] Abstraindo componentes
+* [x] Abstraindo componentes
 * [ ] Conectando front-end com back-end
 * [ ] Listando orfanatos no map
 * [ ] Detalhe do orfanato
