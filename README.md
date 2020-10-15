@@ -67,8 +67,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 * [x] Copiando páginas faltantes
 * [x] Criando navegação entre telas
 * [x] Abstraindo componentes
-* [ ] Conectando front-end com back-end
-* [ ] Listando orfanatos no map
+* [x] Conectando front-end com back-end (axios)
+* [x] Listando orfanatos no map
 * [ ] Detalhe do orfanato
 * [ ] Criação de um orfanato
 ## 4º (Até 2 anos em 2 meses)
