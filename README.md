@@ -65,7 +65,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## 3º Dia: Finalizando front-end
 * [x] Finalizando pagina de mapa
 * [x] Copiando páginas faltantes
-* [ ] Criando navegação entre telas
+* [x] Criando navegação entre telas
 * [ ] Abstraindo componentes
 * [ ] Conectando front-end com back-end
 * [ ] Listando orfanatos no map
