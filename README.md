@@ -44,10 +44,19 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 # About The App Happy
+## 1º Dia
+<img src="/src/assets/screenshots/01 - Landing.png" width="500">
 
-<img src="/src/assets/screenshots/Landing.png" width="500">
+<img src="/src/assets/screenshots/02 - Map.png" width="500">
 
-<img src="/src/assets/screenshots/Map.png" width="500">
+## 3º Dia
+<img src="/src/assets/screenshots/03 - Create.png" width="500">
+
+<img src="/src/assets/screenshots/04 - Create.png" width="500">
+
+<img src="/src/assets/screenshots/05 - Map.png" width="500">
+
+<img src="/src/assets/screenshots/06 - Show.png" width="500">
 
 # Trilha OmniStack
 ## 1º Dia: Conceitos e estrutura web (Acelerando sua evolução)
