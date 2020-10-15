@@ -22,12 +22,11 @@ interface Orphanage {
 }
 
 const OrphanagesMap = () => {
-  const [orphanages, setOrphanages] = useState([] as Orphanage[]);
+  const [orphanages, setOrphanages] = useState<Orphanage[]>([]);
   useEffect(() => {
     const loadOrphanages = async () => {
       try {
-        const { data } = await
-          api.get<Orphanage[]>('orphanages');
+        const { data } = await api.get<Orphanage[]>('orphanages');
         setOrphanages(data);
       } catch (err) {
         console.log(err);
