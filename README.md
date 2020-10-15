@@ -70,6 +70,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 * [x] Conectando front-end com back-end (axios)
 * [x] Listando orfanatos no map
 * [x] Detalhe do orfanato
-* [ ] Criação de um orfanato
+* [x] Criação de um orfanato
 ## 4º (Até 2 anos em 2 meses)
 ## 5º (A minha extra)
