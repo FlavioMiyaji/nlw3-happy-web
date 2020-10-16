@@ -82,3 +82,9 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 * [x] Criação de um orfanato
 ## 4º [Dia: Estruturando app modile (Até 2 anos em 2 meses)](https://github.com/FlavioMiyaji/nlw3-happy-mobile)
 ## 5º [Dia: Finalizando app mobile (A minha extra)](https://github.com/FlavioMiyaji/nlw3-happy-mobile)
+
+# Desafios
+* [ ] Implementar o entrar em contato (WhatsApp)
+* [ ] Shimmer effect
+* [ ] Dark/Ligth themes
+* [ ] I18n
