@@ -66,7 +66,6 @@ export default function CreateOrphanage() {
       history.push('/app');
     } catch (err) {
       console.log(data, err);
-
     }
   };
 
